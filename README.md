@@ -1,20 +1,30 @@
 # <div align="center">Hello there! I'm Boris 👋</div>
 # About me
 ### I'm Front-End developer at [Sber](https://sber.ru/)
-# Technology stack
+## Technology stack
+### FrontEnd
+<div>
+  <img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5"/>
+  <img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3"/>
+  <img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" />
+  <img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TS" />
+  <img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="angular" />
+  
+</div>
+<!--                                                                                                                                  
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
   <li>NodeJS</li>
   <li>TypeScript</li>
-  <li>Angular</li>
+  <li></li>
   <li>Redux</li>
   <li>React</li>
   <li>SQL</li>
   <li>Python</li>
   <li>GraphQL</li>
-</ul>
+</ul> -->
 
 # Contact with me
 <div>
