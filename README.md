@@ -1,6 +1,6 @@
 # <div align="center">Hello there! I'm Boris 👋</div>
 # About me
-### I'm Front-End developer at [Sber](https://sber.ru/)
+### I'm Front-End developer
 ## Technology stack
 ### FrontEnd
 <div>
